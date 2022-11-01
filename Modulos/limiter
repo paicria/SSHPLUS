@@ -1,10 +1,5 @@
 #!/bin/bash
-#====================================================
-#	SCRIPT: LIMITER SSHPLUS MANAGER
-#	DESENVOLVIDO POR:	CRAZY_VPN
-#   MOD @VEM_BRABO
-#	CONTATO TELEGRAM:  https://t.me/ALLSOURCESBR_OFC
-#====================================================
+
 clear
 database="/root/usuarios.db"
 fun_multilogin() {
