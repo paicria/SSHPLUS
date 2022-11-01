@@ -1,11 +1,6 @@
 #!/bin/bash
-#===================================================
-#	SCRIPT: OTIMIZAR	SSHPLUS MANAGER
-#	DESENVOLVIDO POR:	CRAZY_VPN
-#   MOD VEM_BRABO
-#	CONTATO TELEGRAM:	http://t.me/VEM_BRABO
-#	CANAL TELEGRAM:	https://t.me/ALLSOURCESBR_OFC
-#===================================================
+
+
 fun_bar() {
 	comando[0]="$1"
 	comando[1]="$2"
