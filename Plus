@@ -143,6 +143,10 @@ fun_bar "$_Ink/list $_lnk $_Ink $_1nk $key"
 clear
 echo ""
 echo -e 'by: @KIRITO_SSH' >/etc/rec/licence
+echo "" 
+echo "DIGITE SEU NICK EXEMPLO (ANUBIS X)"; read name
+echo "$name" >/root/name
+clear
 cd $HOME
 echo -e "        \033[1;33m • \033[1;32mINSTALACAO CONCLUIDA\033[1;33m • \033[0m"
 echo ""
